@@ -1,0 +1,14 @@
+//
+//  Music-PrefixHeader.pch
+//  Music
+//
+//  Created by Vincent on 2016/11/9.
+//  Copyright © 2016年 com.vincent.study. All rights reserved.
+//
+
+#ifndef Music_PrefixHeader_pch
+#define Music_PrefixHeader_pch
+
+#import "CommonDefine.h"
+
+#endif /* Music_PrefixHeader_pch */
