@@ -10,5 +10,10 @@
 #define Music_PrefixHeader_pch
 
 #import "CommonDefine.h"
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveCocoa/RACEXTScope.h>
+
+
+
 
 #endif /* Music_PrefixHeader_pch */

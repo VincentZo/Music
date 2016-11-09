@@ -3,3 +3,5 @@
 //
 
 #import "CommonDefine.h"
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveCocoa/RACEXTScope.h>
